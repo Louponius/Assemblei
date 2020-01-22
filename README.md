@@ -1,2 +1,4 @@
-# DMWB
-DMWB (Don't Mess With Binary) is an esoteric programming language made by Oklomsy.
+# Assembly But Worse
+ Asemmbly but worse is a programming language made by oklomsy.
+ 
+ Read the wiki article for more info (LINK COMING SOON.)
