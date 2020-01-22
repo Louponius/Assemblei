@@ -1,4 +1,7 @@
-# Assembly But Worse
- Asemmbly but worse is a programming language made by oklomsy.
- 
- Read the wiki article for more info (LINK COMING SOON.)
+# Assemblei
+
+You thought Assembly was bad? wait until you see Assemblei.
+
+Read the wiki article: [here](https://esolangs.org/w/index.php?title=Assemblei)
+
+Made by oklomsy
